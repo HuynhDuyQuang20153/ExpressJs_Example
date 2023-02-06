@@ -1,0 +1,36 @@
+{
+    "employee1" : {
+       "name" : "Masha",
+       "Birthday" : "10/02/1999",
+       "EmployeeID" : "Ms1002",
+       "phongBan": "Ky_thuat"
+    },
+    
+    "employee2" : {
+        "name" : "John",
+        "Birthday" : "02/06/2000",
+        "EmployeeID" : "Ms0206",
+        "phongBan": "Nhan_su"
+    },
+    
+    "employee3" : {
+        "name" : "Peter",
+        "Birthday" : "15/12/1998",
+        "EmployeeID" : "Ms1512",
+        "phongBan": "Nhan_su"
+    },
+    
+    "employee4" : {
+        "name" : "Chalie",
+        "Birthday" : "28/01/1998",
+        "EmployeeID" : "Ms2801",
+        "phongBan": "Ke_toan"
+    },
+    
+    "employee5" : {
+        "name" : "Emma",
+        "Birthday" : "03/10/2001",
+        "EmployeeID" : "Ms0310",
+        "phongBan": "Ke_toan"
+    }
+ }
